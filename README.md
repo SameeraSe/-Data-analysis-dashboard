@@ -42,5 +42,9 @@ What is the employee headcount across states, and where are the largest clusters
 - Recruitment & Costs: Hiring mainly from Indeed & LinkedIn, while Production drives the bulk of salary expenses (12.47M of 21.41M total).
 ## Dashboard
 ![HR Dashboard](https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Screenshot%202025-08-29%20033848.png?raw=true)
-Key Skills: Power BI, Data Modeling, DAX, Data Visualization, HR Analytics
-
+## Conclusion
+The dashboard shows a workforce of 310 employees with a 34% attrition rate, signaling retention issues.
+Female staff slightly outnumber males, and the Production department dominates (67%).
+Most employees meet expectations, but ~10% underperform and satisfaction is mixed.
+Recruitment relies heavily on job boards (Indeed & LinkedIn), with limited internal sources.
+Overall, the organization is stable but needs better retention, balanced staffing, and engagement improvements.

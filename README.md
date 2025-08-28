@@ -33,7 +33,14 @@ What is the employee headcount across states, and where are the largest clusters
 - Standardized data types, formats, and values for consistency.  
 - Built pivot tables to address the defined business questions (KPIs).  
 - Combined pivot tables into a single interactive dashboard.  
-- Enhanced the dashboard with slicers and charts for better insights.  
+- Enhanced the dashboard with slicers and charts for better insights.
+   ## Project Insights 
+- Workforce Overview: 310 employees, with 34% attrition — a sign of retention challenges.
+- Gender Balance: Female workforce (57%) is slightly higher than male (43%).
+- Department Focus: Production dominates (208 staff, 67%), while other departments are relatively small.
+- Performance & Satisfaction: Majority meet expectations (78%) and ~67% report acceptable to very high satisfaction, but ~10% underperform.
+- Recruitment & Costs: Hiring mainly from Indeed & LinkedIn, while Production drives the bulk of salary expenses (12.47M of 21.41M total).
 ## Dashboard
+
 Key Skills: Power BI, Data Modeling, DAX, Data Visualization, HR Analytics
 

@@ -41,6 +41,6 @@ What is the employee headcount across states, and where are the largest clusters
 - Performance & Satisfaction: Majority meet expectations (78%) and ~67% report acceptable to very high satisfaction, but ~10% underperform.
 - Recruitment & Costs: Hiring mainly from Indeed & LinkedIn, while Production drives the bulk of salary expenses (12.47M of 21.41M total).
 ## Dashboard
-![HR Dashboard]
+![HR Dashboard](https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Screenshot%202025-08-29%20033848.png?raw=true)
 Key Skills: Power BI, Data Modeling, DAX, Data Visualization, HR Analytics
 

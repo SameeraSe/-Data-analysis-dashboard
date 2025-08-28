@@ -1,8 +1,31 @@
-#HR Analytics Dashboard — Mini Project using (Power BI)
-##Project Objective
+# HR Analytics Dashboard — Mini Project using (Power BI)
+## Project Objective
 Developed an interactive HR Analytics Dashboard using Power BI to analyze key workforce metrics.
 The dashboard provides insights into employee demographics, headcount distribution, attrition trends, and HR KPIs such as turnover and retention rates.
 This project demonstrates the ability to transform raw HR data into actionable insights through data modeling, DAX measures, and interactive visualizations.
 
-##DataSet Used:https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Sameera%20V1.0.xlsx
+## Dataset Used
+- <a href="https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Sameera%20V1.0.xlsx">Dataset</a>
+## HR KPI Questions 
+## 1)Headcount
+What is the total employee headcount, and how many are active vs. terminated?
+## 2)Gender Diversity
+What is the male-to-female ratio across the workforce?
+## 3)Marital Status Breakdown
+How are employees distributed by marital status (single, married, divorced, etc.)?
+## 4)Department Strength
+Which departments (e.g., Production, IT/IS, Sales, Engineering, Admin) have the highest and lowest number of employees?
+## 5)Performance Ratings
+How many employees are rated as Fully Meets, Exceeds, Needs Improvement, or on PIP?
+## 6)Recruitment Source Effectiveness
+Which recruitment channels (Indeed, LinkedIn, Google, Employee Referral, etc.) contribute most to hiring?
+## 7)Employee Satisfaction Levels
+What percentage of employees report high, acceptable, low, or very low satisfaction?
+## 8)Salary Distribution by Department
+How is the total salary (21.41M) distributed across departments?
+## 9)Attrition by Department
+Which department has the highest attrition rate (terminated employees)?
+## 10)Geographic Distribution
+What is the employee headcount across states, and where are the largest clusters located?
 Key Skills: Power BI, Data Modeling, DAX, Data Visualization, HR Analytics
+

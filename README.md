@@ -33,7 +33,7 @@ What is the employee headcount across states, and where are the largest clusters
 - Built pivot tables to address the defined business questions (KPIs).  
 - Combined pivot tables into a single interactive dashboard.  
 - Enhanced the dashboard with slicers and charts for better insights.
-   ## Project Insights 
+## Project Insights 
 - Workforce Overview: 310 employees, with 34% attrition — a sign of retention challenges.
 - Gender Balance: Female workforce (57%) is slightly higher than male (43%).
 - Department Focus: Production dominates (208 staff, 67%), while other departments are relatively small.

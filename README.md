@@ -27,7 +27,6 @@ How is the total salary (21.41M) distributed across departments?
 Which department has the highest attrition rate (terminated employees)?
 ## 10)Geographic Distribution
 What is the employee headcount across states, and where are the largest clusters located?
-- Dashboard Interaction <a href="https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Screenshot%202025-08-29%20033848.png">View Dashboard</a>
 ## Process
 - Verified and cleaned the dataset by handling missing values and anomalies.  
 - Standardized data types, formats, and values for consistency.  

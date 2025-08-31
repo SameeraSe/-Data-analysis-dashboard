@@ -40,7 +40,9 @@ What is the employee headcount across states, and where are the largest clusters
 - Department Focus: Production dominates (208 staff, 67%), while other departments are relatively small.
 - Performance & Satisfaction: Majority meet expectations (78%) and ~67% report acceptable to very high satisfaction, but ~10% underperform.
 - Recruitment & Costs: Hiring mainly from Indeed & LinkedIn, while Production drives the bulk of salary expenses (12.47M of 21.41M total).
+  
 ## Dashboard
+- <a href="https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/HR%20Analysis.pbix"> Dashboard link</a>
 ![HR Dashboard](https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Screenshot%202025-08-29%20033848.png?raw=true)
 ## Conclusion
 The dashboard shows a workforce of 310 employees with a 34% attrition rate, signaling retention issues.

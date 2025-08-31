@@ -4,7 +4,11 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze key wo
 The dashboard provides insights into employee demographics, headcount distribution, attrition trends, and HR KPIs such as turnover and retention rates.
 This project demonstrates the ability to transform raw HR data into actionable insights through data modeling, DAX measures, and interactive visualizations.
 
-## Dataset Used
+## Tools & Technologies Used
+# - Power BI – Dashboard creation & visualization
+# - Power Query – Data cleaning & transformation
+# - CSV Dataset – Historical gold prices & trading volume
+# - DAX – Measures & calculated field
 - <a href="https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Sameera%20V1.0.xlsx">Dataset</a>
 ## HR KPI Questions 
 ## 1)Headcount

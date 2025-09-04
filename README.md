@@ -7,7 +7,7 @@ This project demonstrates the ability to transform raw HR data into actionable i
 ## Tools & Technologies Used
 # - Power BI – Dashboard creation & visualization
 # - Power Query – Data cleaning & transformation
-# - CSV Dataset – Historical gold prices & trading volume
+# - Excel Dataset – Employee Dataset
 # - DAX – Measures & calculated field
 - <a href="https://github.com/SameeraSe/-Data-analysis-dashboard/blob/main/Sameera%20V1.0.xlsx">Dataset</a>
 ## HR KPI Questions 
@@ -35,7 +35,6 @@ What is the employee headcount across states, and where are the largest clusters
 - Verified and cleaned the dataset by handling missing values and anomalies.  
 - Standardized data types, formats, and values for consistency.  
 - Built pivot tables to address the defined business questions (KPIs).  
-- Combined pivot tables into a single interactive dashboard.  
 - Enhanced the dashboard with slicers and charts for better insights.
 ## Project Insights 
 - Workforce Overview: 310 employees, with 34% attrition — a sign of retention challenges.
